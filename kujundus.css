@@ -1,0 +1,31 @@
+body{
+font-family: Comic Sans MS;
+}
+
+h1{
+	text-decoration: underline;
+}
+
+strong{
+	text-decoration: underline;
+}
+
+img{
+	position: absolute;
+	top: 25%;
+	left: 800px;
+}
+
+#border{
+	position: relative;
+	width: 400px;
+}
+
+.sum{
+	color: red;
+	float: right;
+}
+
+.euro{
+	color: black;
+}
